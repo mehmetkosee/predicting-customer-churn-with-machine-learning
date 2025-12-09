@@ -9,7 +9,7 @@ The goal of this project is to build a classifier that can accurately predict th
 ## Dataset
 
 link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-The dataset used is the "Telco Customer Churn" dataset. It contains customer information with the following attributes:
+* **The dataset used is the "Telco Customer Churn" dataset. It contains customer information with the following attributes:
 * **Demographics:** Gender, SeniorCitizen, Partner, Dependents
 * **Services:** PhoneService, MultipleLines, InternetService, OnlineSecurity, OnlineBackup, DeviceProtection, TechSupport, StreamingTV, StreamingMovies
 * **Account Information:** Tenure, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges, TotalCharges
